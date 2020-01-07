@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+  text-align: center;
+}
+
+figure img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+nav a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #FFE4E7;
+}
+
+nav {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+figcaption{
+  font-size: 12px;
+  align-items: center;
+}
