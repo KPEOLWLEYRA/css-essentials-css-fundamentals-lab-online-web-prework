@@ -21,7 +21,9 @@ nav a{
   align-items: center;
 }
 
-
+nav{
+  align-content: center;
+}
 
 figcaption{
   font-size: 12px;
