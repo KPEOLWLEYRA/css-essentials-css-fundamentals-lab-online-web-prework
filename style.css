@@ -21,11 +21,7 @@ nav a{
   text-align: center;
 }
 
-nav {
-  display: block;
-  margin-right: auto;
-  margin-left: auto;
-}
+
 
 figcaption{
   font-size: 12px;
